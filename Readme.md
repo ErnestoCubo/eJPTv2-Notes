@@ -1,6 +1,6 @@
 # eJPTv2 Exam Notes
 
-Welcome to the eJPTv2 Exam Success Guide repository! If you're gearing up to conquer the eLearnSecurity Junior Penetration Tester (eJPTv2) exam and achieve a well-deserved certification, you're in the right place.
+Welcome to the eJPTv2 Exam Notes repository! If you're gearing up to conquer the eLearnSecurity Junior Penetration Tester (eJPTv2) exam and achieve a well-deserved certification, you're in the right place.
 
 ## About
 
